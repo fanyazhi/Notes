@@ -1,11 +1,11 @@
-# Installations and Libraries 
+# Tools and Libraries 
 
 ## Contents
 
-[Eigen](/Eigen) C++, linear algebra
+[Eigen](./Eigen) C++, linear algebra
 
-[SDL2](/SDL2) multimedia
+[SDL2](./SDL2) multimedia
 
-[SMFL](/SMFL) multimedia
+[SMFL](./SMFL) multimedia
 
 ---
